@@ -2,3 +2,8 @@
 
 # DiscreteLatticeEM
 Lorentz-like dynamics in 2D discrete chiral lattices. Reproducible Python simulation.
+
+## Kontakt a spolupráce
+
+Pro vědeckou diskuzi a dotazy použijte prosím [GitHub Issues](../../issues).
+Odpovídám do 7 dnů. Děkuji za respektování soukromí.
